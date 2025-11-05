@@ -1,9 +1,7 @@
-# Fabric Example Mod
+# Minecraft in Intellij reinballern.
 
-## Setup
-
-For setup instructions please see the [fabric documentation page](https://docs.fabricmc.net/develop/getting-started/setting-up) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Intellij
+->New
+->Project from Version Control
+->URL
+https://github.com/Wikinger8/fabric-example-mod.git
